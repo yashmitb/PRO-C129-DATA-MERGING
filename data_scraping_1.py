@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 16 17:02:40 2020
-
-@author: Vishal
-"""
-
 from bs4 import BeautifulSoup as bs
 import requests
 import pandas as pd
